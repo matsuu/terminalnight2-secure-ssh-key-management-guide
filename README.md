@@ -1,7 +1,7 @@
 # terminalnight2-secure-ssh-key-management-guide
 
 2026/03/27に開催された[Terminal Night #2](https://kichijojipm.connpass.com/event/382650/)の発表資料です。
-ターミナルで動作するプレゼンツール[presenterm](https://mfontanini.github.io/presenterm/)を使っています。
+ターミナルで動作するプレゼンツール[presenterm](https://github.com/mfontanini/presenterm)を使っています。
 
 ターミナルは[Kitty](https://github.com/kovidgoyal/kitty)推奨です。
 
